@@ -56,11 +56,11 @@ python main.py --template EDSR_APE
 ### Testing
 Test EDSR:
 ```python
-python main.py --template EDSR_APE
+python main.py --template EDSR_test
 ```
 
 Test EDSR-APE:
 ```python
-python main.py --template EDSR_APE
+python main.py --template EDSR_APE_test
 ```
 
